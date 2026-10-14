@@ -1,0 +1,12 @@
+# Dataset files
+*.csv
+*.zip
+data/
+
+# Local credentials
+.env
+.env.*
+
+# System files
+.DS_Store
+__pycache__/
